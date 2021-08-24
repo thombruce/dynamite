@@ -972,6 +972,10 @@
   resolved "https://registry.nlark.com/@soda/get-current-script/download/@soda/get-current-script-1.0.2.tgz#a53515db25d8038374381b73af20bb4f2e508d87"
   integrity sha1-pTUV2yXYA4N0OBtzryC7Ty5QjYc=
 
+"@thombruce/tnt@https://github.com/thombruce/tnt":
+  version "0.1.0"
+  resolved "https://github.com/thombruce/tnt#740c7708fb28357a98f7e8fa20139cd10bc77fc8"
+
 "@types/body-parser@*":
   version "1.19.1"
   resolved "https://registry.nlark.com/@types/body-parser/download/@types/body-parser-1.19.1.tgz#0c0174c42a7d017b818303d4b5d969cb0b75929c"
