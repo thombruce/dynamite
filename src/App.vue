@@ -6,6 +6,16 @@
     router-view
 </template>
 
+<script>
+export default {
+  metaInfo: {
+    htmlAttrs: {
+      'data-theme': 'cupcake'
+    }
+  }
+}
+</script>
+
 <style>
 #app {
   font-family: Avenir, Helvetica, Arial, sans-serif;

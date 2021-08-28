@@ -4,9 +4,16 @@ import './registerServiceWorker'
 import router from './router'
 import store from './store'
 
+// TNT
+import VueMeta from 'vue-meta'
+
+// TNT
 import './index.css'
 
 Vue.config.productionTip = false
+
+// TNT
+Vue.use(VueMeta)
 
 new Vue({
   router,
