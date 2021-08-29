@@ -1002,7 +1002,7 @@
 
 "@thombruce/tnt@https://github.com/thombruce/tnt":
   version "0.1.0"
-  resolved "https://github.com/thombruce/tnt#9c58f741a6cddb924a95703f1454ecbb873786ff"
+  resolved "https://github.com/thombruce/tnt#8355f4a7d4747c5c7d9ddced74bf33d03716f8ed"
   dependencies:
     "@tailwindcss/forms" "^0.3.3"
     autoprefixer "^9"

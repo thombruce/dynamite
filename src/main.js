@@ -6,9 +6,6 @@ import store from './store'
 
 import TNT from '@thombruce/tnt'
 
-// TNT
-import './index.css'
-
 Vue.config.productionTip = false
 
 Vue.use(TNT)
