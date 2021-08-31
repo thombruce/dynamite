@@ -11,7 +11,7 @@
             | M
         .flex-1
         .navbar-end
-          // TntUIThemeToggle
+          ThemeChange
     main.max-w-prose.mx-auto
       // TntUIBreadcrumbs
       RouterView
@@ -34,7 +34,12 @@
 </template>
 
 <script>
+import ThemeChange from '@thombruce/tnt/src/components/ThemeChange.vue'
+
 export default {
+  components: {
+    ThemeChange
+  },
   metaInfo: {
     htmlAttrs: {
       'data-theme': 'cupcake'
