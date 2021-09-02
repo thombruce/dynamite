@@ -5,6 +5,8 @@ import router from './router'
 import store from './store'
 import TNT from '@thombruce/tnt'
 
+import '@thombruce/tnt/dist/tnt.css'
+
 Vue.use(TNT)
 
 Vue.config.productionTip = false
