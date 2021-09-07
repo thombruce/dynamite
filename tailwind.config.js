@@ -5,7 +5,7 @@ module.exports = {
         /data-theme$/
       ]
     },
-    content: ['./public/**/*.html', './src/**/*.vue']
+    content: ['./public/**/*.html', './src/**/*.vue', './node_modules/@thombruce/**/*.vue']
   },
   darkMode: false, // or 'media' or 'class'
   theme: {
