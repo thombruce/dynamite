@@ -34,6 +34,7 @@
 </template>
 
 <script>
+import { themeChange } from 'theme-change'
 import { ThemeChange } from '@thombruce/tnt'
 
 export default {
@@ -49,6 +50,9 @@ export default {
     return {
       showMainMenu: false
     }
+  },
+  mounted () {
+    themeChange(false)
   }
 }
 </script>
