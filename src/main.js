@@ -5,8 +5,8 @@ import router from './router'
 import store from './store'
 import TNT from '@thombruce/tnt'
 
-import '@thombruce/tnt/src/assets/index.css'
 import '@thombruce/tnt/dist/tnt.css'
+import '@thombruce/tnt/src/assets/index.css'
 
 Vue.use(TNT)
 

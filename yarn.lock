@@ -1024,10 +1024,10 @@
   dependencies:
     mini-svg-data-uri "^1.2.3"
 
-"@thombruce/tnt@^0.1.9":
-  version "0.1.9"
-  resolved "https://registry.yarnpkg.com/@thombruce/tnt/-/tnt-0.1.9.tgz#6e6ac05bd73165c824ecbb73d313562353023096"
-  integrity sha512-pKUxGhxfV906Hh0ZRIDTMc2VJTJsgGZtEkr0G8Z9QH6VB3nsiT8r+oevrl7clGiaYddp87SrrPocE6y68X+LyA==
+"@thombruce/tnt@^0.1.10":
+  version "0.1.10"
+  resolved "https://registry.yarnpkg.com/@thombruce/tnt/-/tnt-0.1.10.tgz#1cb1ddde7ca86c9f9f518999cfbf8fb5eb0731bc"
+  integrity sha512-34S1jQsMuaJ/PCMENl5CVDLWOTO4K4V27VesYo8Ny0tqJjuyLoCUznKEXxAmx0OJPi2kGNBpNOaAQLPaInyj6w==
   dependencies:
     "@fortawesome/fontawesome-svg-core" "^1.2.36"
     "@fortawesome/free-solid-svg-icons" "^5.15.4"
