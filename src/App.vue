@@ -34,7 +34,7 @@
 </template>
 
 <script>
-import ThemeChange from '@thombruce/tnt/src/components/ThemeChange.vue'
+import { ThemeChange } from '@thombruce/tnt'
 
 export default {
   components: {
